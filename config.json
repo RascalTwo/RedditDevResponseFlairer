@@ -1,0 +1,16 @@
+{
+    "user_agent": "Dev Response Flairer",
+    "username": "",
+    "password": "",
+    "check_rate": 60,
+    "comment_amount": 100,
+    "subreddits": [
+        "JoinSquad"
+    ],
+    "developer_flairs": [
+        "DeveloperFlair"
+    ],
+    "developers": [
+
+    ]
+}
